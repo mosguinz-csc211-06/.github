@@ -1,4 +1,4 @@
-# CSC 210 — Introduction to Software Lab
+# CSC 211 — Introduction to Software Lab
 
 SF State, Fall 2020
 
